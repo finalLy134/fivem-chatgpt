@@ -15,3 +15,8 @@ First of all install the resource and drag it into your [resources] folder in yo
 Second thing you need to do, after you've ensured the resource and he's ready.
 Open the start.bat file to start the voice-recognition server.
 After you've done this step you can start talking to NPCs in-game and enjoy!
+
+## Important
+Since we are using Unreal Speech's TTS API and he's very slow at giving us the response for our TTS you might wait ~15s everytime you talk to an NPC.
+So this project isn't really for regular servers (Roleplay/DM whatever). He's more for the educational part and actually talking to NPCs in the game.
+So just note, the conversations are slow :D
