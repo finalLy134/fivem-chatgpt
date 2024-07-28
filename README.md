@@ -8,4 +8,4 @@ A FiveM Script that lets you talk to NPCs ingame using:
 ## Credits
 Huge credit to CharlesHacks's YouTube Video on his project about this.
 
-And of course to those amazing resources that are used in this project.
+And of course to these amazing resources that are used in this project.
