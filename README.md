@@ -1,5 +1,7 @@
 # fivem-chatgpt
-A FiveM Script that lets you talk to NPCs ingame using:
+A FiveM Script that lets you talk to NPCs ingame.
+
+## Requirements & What are we using
 - pma-voice
 - voice-recognition (FiveM-Mumble-Auto-Moderation)
 - ChatGPT's API
