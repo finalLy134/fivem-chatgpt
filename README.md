@@ -6,6 +6,7 @@ A FiveM Script that lets you talk to NPCs ingame.
 - [pma-voice](https://github.com/AvarianKnight/pma-voice)
 - [voice-recognition](https://github.com/Dalrae1/FiveM-Mumble-Auto-Moderation)
 - [sounity](https://github.com/araynimax/sounity)
+- [weathersync](https://github.com/kibook/weathersync)
 - [ChatGPT's API](https://platform.openai.com/settings/organization/billing/overview)
 - [Unreal Speech's TTS API](https://unrealspeech.com/)
 
