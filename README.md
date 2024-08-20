@@ -4,6 +4,7 @@ A FiveM Script that lets you talk to NPCs ingame.
 ## Requirements & What are we Using
 - pma-voice
 - voice-recognition ([FiveM-Mumble-Auto-Moderation](https://github.com/Dalrae1/FiveM-Mumble-Auto-Moderation))
+- sounity
 - ChatGPT's API
 - Unreal Speech's TTS API
 
