@@ -23,7 +23,7 @@ This is for the Text to speech system, you can find it [Here](https://unrealspee
 After you've done all of that you'd need to navigate to your server.cfg where you'll find a convar saying `openai_api_key` change it to your ChatGPT api key, and another api key there saying `unrealspeech_api_key`. Change it too.
 
 After you've set all of these things up, You're ready to start using the script.
-Make sure you've started the script in your server.cfg and he's started and then open this file: `/voice-recognition/start.bat`
+Make sure you've started the script in your server.cfg and he's started and then open this file: `/voice-recognition/setup.bat` and after the installation has finished open `/voice-recognition/start.bat`
 It will start a server that will hook into your mumble voice chat and listen to every thing players say.
 
 After all of this you can just walk up to NPCs and see if it works.
