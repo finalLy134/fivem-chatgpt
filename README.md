@@ -2,6 +2,7 @@
 A FiveM Script that lets you talk to NPCs ingame.
 
 ## Requirements & What are we Using
+- Python ([3.10.0 Recommended](https://www.python.org/downloads/release/python-3100/))
 - [pma-voice](https://github.com/AvarianKnight/pma-voice)
 - [voice-recognition](https://github.com/Dalrae1/FiveM-Mumble-Auto-Moderation)
 - [sounity](https://github.com/araynimax/sounity)
