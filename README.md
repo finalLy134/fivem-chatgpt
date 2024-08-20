@@ -31,6 +31,11 @@ It will start a server that will hook into your mumble voice chat and listen to 
 After all of this you can just walk up to NPCs and see if it works.
 **ALSO NOTE** that since Unreal Speech in his free plan is a very slow API you'll get a response from the NPC after something like 10 seconds or so, so it doesn't mean it is not working it means that there's delay and it is okay.
 
+## How to change the Voice Recognition Server Port?
+Navigate to `voice-recognition/voice-recognition.py`
+In line 12 where you see port change it to whatever you want.
+Save the file and done.
+
 ## Important
 Since we are using Unreal Speech's TTS API and he's very slow at giving us the response for our TTS you might wait ~15s everytime you talk to an NPC.
 So this project isn't really for regular servers (Roleplay/DM whatever). He's more for the educational part and actually talking to NPCs in the game.
