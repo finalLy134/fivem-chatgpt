@@ -1,6 +1,12 @@
 # fivem-chatgpt
 A FiveM Script that lets you talk to NPCs ingame.
 
+## Check out my new 10-System!
+[Showcase Video](https://www.youtube.com/watch?v=-wyGZMr1GnU&feature=youtu.be)
+[LT-10System](https://lt-studios.tebex.io/package/6809125)
+
+![LT-10System Preview](https://i.ibb.co/CgLKgrs/lt10systemthumb.jpg)
+
 ## Requirements & What are we Using
 - Python ([3.10.0 Recommended](https://www.python.org/downloads/release/python-3100/))
 - [pma-voice](https://github.com/AvarianKnight/pma-voice)
